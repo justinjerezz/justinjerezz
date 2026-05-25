@@ -55,12 +55,3 @@ QA Automation Engineer • Desarrollador Web 🚀
 - 🌐 https://justinjerez.com
 - 💻 https://devjus.es
 
----
-
-<p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=justinjerezz&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justinjerezz&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
