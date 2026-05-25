@@ -1,48 +1,44 @@
-<h1 align="center">Hey 👋 Soy Justin Jerez </h1>
+<h1 align="center">Hey 👋 Soy Justin Jerez</h1>
 
 <h3 align="center">
-QA Automation Engineer • Desarrollador Web • Automatización y calidad de software 🚀
+QA Automation Engineer • Desarrollador Web 🚀
 </h3>
 
 <p align="center">
   <a href="https://github.com/justinjerezz">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=QA+Automation+Engineer;Desarrollador+Web;Playwright+%7C+Selenium+%7C+Karate;Testing+E2E+para+Ecommerce;Construyendo+webs+modernas+y+escalables;3%2B+años+en+Testing+y+Automatización" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Playwright+%7C+Selenium+%7C+Karate;QA+Automation+Engineer;Desarrollador+Web;E2E+Testing+%26+Frontend" />
   </a>
 </p>
 
 ---
 
-<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<div align="center">
+
+<img 
+  alt="coding" 
+  width="250" 
+  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+</div>
 
 ## 👨‍💻 Sobre mí
 
-- 🔎 QA Automation Engineer con más de **3 años de experiencia**
-- 🏢 Experiencia trabajando con **Globant, Iberia y DIA**
-- 🧪 Especializado en:
-  - Testing E2E
-  - Automatización Web
-  - Testing de APIs
-  - Arquitecturas de testing
-  - CI/CD
-- 🚀 Trabajando principalmente con:
-  - Playwright
-  - Selenium
-  - Karate Framework
-- 🌐 Desarrollador web apasionado por crear productos modernos
-- ⚡ Fan de la automatización, el clean code y las buenas prácticas
-- 📚 Aprendiendo continuamente nuevas tecnologías relacionadas con QA y desarrollo
+🔹 QA Automation Engineer con +3 años de experiencia  
+🔹 Experiencia en Globant, Iberia y DIA  
+🔹 Especializado en Testing E2E y Automatización Web  
+🔹 Desarrollador web enfocado en frontend moderno  
 
 ---
 
-## 🧪 Stack de QA & Automatización
+## ⚒️ Stack
 
-<p align="left">
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs,java,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,java,git,github,vscode" />
 
 </p>
 
-<p align="left">
+<p align="center">
 
 <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
 
@@ -50,51 +46,21 @@ QA Automation Engineer • Desarrollador Web • Automatización y calidad de so
 
 <img src="https://img.shields.io/badge/Karate-000000?style=for-the-badge&logo=karateclub&logoColor=white" />
 
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
-
 </p>
 
 ---
 
-## 🎨 Stack Desarrollo Web
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,react,nextjs,astro,figma" />
-
-</p>
-
----
-
-## 🌍 Proyectos Personales
-
-🚀 Algunos de mis proyectos y sitios personales:
+## 🌍 Proyectos
 
 - 🌐 https://justinjerez.com
 - 💻 https://devjus.es
 
 ---
 
+<p align="center">
 
-## 🧠 Actualmente
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=justinjerezz&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-```yaml
-aprendiendo:
-  - Karate Framework
-  - Arquitecturas avanzadas de testing
-  - Automatización E2E
-  - Testing de APIs
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justinjerezz&layout=compact&theme=tokyonight&hide_border=true"/>
 
-construyendo:
-  - Proyectos personales
-  - Frameworks de automatización
-  - Experiencias frontend modernas
-
-intereses:
-  - Ecommerce
-  - Performance Web
-  - QA Automation
-  - Developer Experience
-  - IA aplicada al testing
+</p>
